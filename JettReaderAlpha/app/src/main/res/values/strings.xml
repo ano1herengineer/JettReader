@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PDF Viewer</string>
+    <!--<string name="action_settings">Settings</string>-->
+    <string name="action_previous">Previous page</string>
+    <string name="action_next">Next page</string>
+    <string name="action_open">Open document</string>
+    <string name="action_first">First page</string>
+    <string name="action_last">Last page</string>
+    <string name="action_zoom_out">Zoom out</string>
+    <string name="action_zoom_in">Zoom in</string>
+    <string name="action_rotate_clockwise">Rotate clockwise</string>
+    <string name="action_rotate_counterclockwise">Rotate counterclockwise</string>
+    <string name="action_jump_to_page">Jump to page</string>
+    <string name="action_view_document_properties">Properties</string>
+
+    <string name="document_properties_invalid_date">Invalid date</string>
+    <string name="document_properties_retrieval_failed">Failed to obtain document metadata</string>
+
+    <string name="invalid_mime_type">Cannot open file with invalid MIME type</string>
+    <string name="legacy_file_uri">Cannot open legacy file paths from insecure apps</string>
+    <string name="io_error">Received I/O error trying to open content</string>
+</resources>
